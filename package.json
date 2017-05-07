@@ -1,0 +1,19 @@
+{
+  "name": "uscis_lookup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "2.81.0",
+    "cheerio": "0.22.0",
+    "nodemailer": "4.0.1",
+    "bunyan": "1.8.10",
+    "node-schedule": "1.2.1"
+  }
+}
