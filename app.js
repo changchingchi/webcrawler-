@@ -43,7 +43,7 @@ var options = {
   body: 'changeLocale=' +
   '&completedActionsCurrentPage=0' +
   '&upcomingActionsCurrentPage=0' +
-  '&appReceiptNum=Wac1713350413' +
+  '&appReceiptNum=' +
   '&caseStatusSearchBtn=CHECK+STATUS'
 };
 
